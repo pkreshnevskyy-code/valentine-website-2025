@@ -29,8 +29,8 @@ const CONFIG = {
         },
         second: {
             text: "Wie sehr liebst du mich ?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            startText: "So viel !",                                   // Text before the percentage
+            nextBtn: "Weiter  ❤️"                                         // Text for the next button
         },
         third: {
             text: "willst du mein Valentin sein am 14 Februar 2026 (auch ohne sehen 😞)? 🌹", // The big question!
