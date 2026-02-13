@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Willst du mein Valentin sein (oder so glaube ich)? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Magst du mich ?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "Ja",                                             // Text for "Yes" button
+            noBtn: "Nein ",                                               // Text for "No" button
             secretAnswer: "Ich mag dich garnicht, sondern ich liebe dich ! ❤️"           // Secret hover message
         },
         second: {
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "willst du mein Valentin sein am 14 Februar 2026 (auch ohne sehen 😞)? 🌹", // The big question!
+            yesBtn: "Jaaa!",                                             // Text for "Yes" button
+            noBtn: "Nö"                                                 // Text for "No" button
         }
     },
 
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOOW du liebst mich so sehr?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "Zur Unendlichkeit und darüber hinaus! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        normal: "Nur so wenig!? "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
